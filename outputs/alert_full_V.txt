@@ -1,0 +1,7 @@
+[**] [1:1000005:0] "Attempt to HTTP to server" [**]
+[Priority: 0] 
+05/13-15:47:07.311224 145.254.160.237:3372 -> 65.208.228.223:80
+TCP TTL:128 TOS:0x0 ID:3905 IpLen:20 DgmLen:48 DF
+******S* Seq: 0x38AFFE13  Ack: 0x0  Win: 0x2238  TcpLen: 28
+TCP Options (4) => MSS: 1460 NOP NOP SackOK 
+

@@ -1,0 +1,7 @@
+[**] [1:10000001:0] "Attempt to FTP to server." [**]
+[Priority: 0] 
+08/18-01:01:27.247302 192.168.1.182:62014 -> 192.168.1.231:21
+TCP TTL:64 TOS:0x0 ID:7264 IpLen:20 DgmLen:64 DF
+******S* Seq: 0x4846ED9  Ack: 0x0  Win: 0xFFFF  TcpLen: 44
+TCP Options (7) => MSS: 1460 NOP WS: 0 NOP NOP TS: 512575478 0 SackOK 
+

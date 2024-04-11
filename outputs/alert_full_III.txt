@@ -1,0 +1,7 @@
+[**] [1:1000003:0] "Attempt to telnet to server" [**]
+[Priority: 0] 
+11/28-07:42:38.387203 192.168.0.2:1550 -> 192.168.0.1:23
+TCP TTL:64 TOS:0x10 ID:17980 IpLen:20 DgmLen:60 DF
+******S* Seq: 0x99C5A0EC  Ack: 0x0  Win: 0x7D78  TcpLen: 40
+TCP Options (5) => MSS: 1460 SackOK  TS: 10233636 0 NOP WS: 0
+

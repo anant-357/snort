@@ -1,0 +1,7 @@
+[**] [1:1000004:0] "Attempt to SSH to server" [**]
+[Priority: 0] 
+01/12-08:19:48.768425 10.1.6.14:39158 -> 10.1.6.3:22
+TCP TTL:64 TOS:0x0 ID:13123 IpLen:20 DgmLen:64 DF
+***AP*** Seq: 0x3258692  Ack: 0xEE5D54B8  Win: 0xE5  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1022590625 3736479351
+

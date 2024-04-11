@@ -1,0 +1,6 @@
+[**] [1:1000012:0] "F/A for SSH teardown" [**]
+[Priority: 0] 
+01/12-08:19:48.768425 10.1.6.14:39158 -> 10.1.6.3:22
+TCP TTL:64 TOS:0x0 ID:13123 IpLen:20 DgmLen:64 DF
+***A***F Seq: 0x7F138EE1  Ack: 0x677249B6  Win: 0x73  TcpLen: 20
+TCP Options (3) => NOP NOP TS: 1022590625 3736479351
